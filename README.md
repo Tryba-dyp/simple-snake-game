@@ -41,6 +41,6 @@ Arrow keys:
 - **Right Arrow (→)**: Move the snake right.
 
 ## Screenshots
-![Start Game Screenshot](screenshots/start_game.png)
-![Gameplay Screenshot](screenshots/gameplay.png)
-![Game Over Screenshot](screenshots/game_over.png)
+![Start Game Screenshot](screenshots/start_game.PNG)
+![Gameplay Screenshot](screenshots/gameplay.PNG)
+![Game Over Screenshot](screenshots/game_over.PNG)
